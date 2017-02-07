@@ -1,11 +1,13 @@
 {
   "name": "ReactAndroid",
   "version": "0.0.1",
+  "private": true,
   "description": "first android react-native app",
   "main": "index.js",
   "dependencies": {
     "react": "15.4.2",
-    "react-native": "0.41.2"
+    "react-native": "0.41.2",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
